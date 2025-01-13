@@ -1,17 +1,15 @@
 ## About me
 
-Driven by a lifelong fascination with science and technology, I witnessed the transformative power of computers, aviation, nanotechnology, and the internet.
+Hi everyone, I'm Juan Lobos.
 
-After years of knowing GitHub as a place to find good software, small applications for my computer, or firmware for the drones or the remote control that I use. 
-I started to find the real dimension of it entering the Data World. 
+Having witnessed the transformative power of computers, aeronautics, nanotechnology and the internet from a young age, I've been driven by a lifelong fascination with science and technology.
 
-I am new, and I will try to use it in the correct way to have temporal control of my code work.
+Until now, I've used GitHub as a place to find small applications for my desktop and firmware for the drones I've designed and built.
+In 2025, after completing a Data Science and Machine Learning Bootcamp, I decided to finally create my own portfolio.
 
-Here, you will find projects that I saw interest in learning more about data analysis, machine learning, or deep learning.
-In time, I want to be able to collaborate in libraries for phyton to increase the possibilities of the research with the Data.
+Here you will find projects that caught my interest and made me want to delve deeper into Data Analysis and Modelling with Python.
 
-See you around
-Juan
+See you around 👋
 
 ## Technologies & tools
 
